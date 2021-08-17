@@ -1,0 +1,33 @@
+   p{
+       font-family: Arial, Helvetica, sans-serif;
+       font-style: italic;
+       font-weight: bold;
+       font-size: 30px;
+       color: #280;
+   }
+   
+   #ptitulo{
+        font-family: Arial, Helvetica, sans-serif;
+        font-style: italic;
+        font-weight: bold;
+        font-size: 25px;
+        color: #006;
+    }
+    #presumo{
+        font-family: Arial, Helvetica, sans-serif;
+        font-style: italic;
+        font-size: 20px;
+        
+    }
+    #pautor{
+        font-family: Arial, Helvetica, sans-serif;
+        font-style: italic;
+        font-weight: bold;
+        font-size: 20px;
+        color: #666;
+
+    }
+    #ptexto{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 15px;
+    }
